@@ -1,9 +1,5 @@
 numpy
 pandas
-nltk
-vaderSentiment
-requests
-contractions
 streamlit
 sklearn
 pyngrok
