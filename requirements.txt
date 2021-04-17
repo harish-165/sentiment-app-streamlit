@@ -1,0 +1,11 @@
+numpy
+pandas
+nltk
+os
+vaderSentiment
+requests
+contractions
+streamlit
+sklearn
+pyngrok
+joblib
